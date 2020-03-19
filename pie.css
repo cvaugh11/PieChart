@@ -1,0 +1,25 @@
+.pie{
+display: inline-block;
+background-color: black;
+width: 300px;
+height: 300px;
+margin-bottom: 3px;
+text-align: center;}
+
+.slice1{border-top-left-radius: 180%;
+background-color: red;
+color: white}
+
+.slice2{border-top-right-radius: 180%;
+background-color: yellow;
+color:red;}
+
+.slice3{border-bottom-left-radius: 180%;
+background-color: blue;
+color:white;}
+
+.slice4{border-bottom-right-radius: 180%;
+background-color: green;
+color:white;}
+
+p{margin-top: 50%}
